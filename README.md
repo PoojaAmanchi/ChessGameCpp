@@ -49,18 +49,18 @@ Clone the repository:
 ```bash
 
 git clone <repository-url>
-cd chessgame
+cd chess
 ```
 Compile the source code:
 
 ```bash
 
-g++ chessgame.cpp -o chessgame
+g++ chess.cpp -o chess
 ```
 Run the game:
 
 ```bash
 
-./chessgame
+./chess
 ```
 Enjoy playing!
